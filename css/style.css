@@ -36,7 +36,7 @@ ul li {
   top: 0;
   left: 0;
   background-image: url("./../images/love-block.svg"),
-   linear-gradient(to right top, #1485ca,#1172ad, #ec2f4b);  ;
+  linear-gradient(to right top, #1485ca,#1172ad, #ec2f4b);  ;
   background-size: 100%, cover;
   background-repeat: repeat, no-repeat;
   background-position: 0, 0;
