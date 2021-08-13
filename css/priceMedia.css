@@ -1,0 +1,302 @@
+@media (min-width:320px) and (max-width:575.98px){
+    .mobileNavStyle{
+        width:260px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+    .cmn-title {
+        font-size: 22px;
+        padding-bottom: 50px;
+    }
+    .header-content h1 {
+        font-size: 40px;
+    }
+    /*Header Section Start*/
+    .header-content {
+        padding-bottom: 300px;
+        padding-top:80px;
+    }
+    .background {
+        padding: 0;
+
+    }
+    .pricing-plan {
+        padding: 5px;
+    }
+    .panel {
+        padding: 15px 10px;
+    }
+    ul{
+        padding-left: 0;
+    }
+     .priceText {
+        padding-top: 25px;
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    /*Feature Switch*/
+    .feature-switch {
+        padding: 80px 0px;
+    }
+    /*Trusted Section*/
+    .trusted-human {
+        padding: 70px 0px;
+    }
+    /*Footer Section Start*/
+    .footer{
+        text-align: center;
+    }
+    .footer-content {
+        padding-bottom: 25px;
+    }
+    .footer-links h5 {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .footer-links ul li {
+        margin-top: 17px;
+    }
+    .footer-content p {
+        padding-right: 0;
+    }
+    .footer-content ul li {
+        margin-right: 35px!important;
+    } 
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .mobileNavStyle{
+        width:290px;
+    }      
+    .sidenav a {
+     padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+    .cmn-title {
+        font-size: 22px;
+        padding-bottom: 50px;
+    }
+    .header-content h1 {
+        font-size: 45px;
+    }
+
+    /*Header Section Start*/
+    .header-content {
+        padding-bottom: 300px;
+    }
+    .priceText {
+        padding-top: 25px;
+        padding-bottom: 50px;
+        width: 50%;
+    }
+    .select-title {
+        font-size: 22px;
+    }
+    .text-wrapper h5 {
+        font-size: 15px;
+    }
+    .price_item {
+        width: 100%;
+        
+    }
+    .pricing-text{
+        padding-bottom: 50px;
+    }
+
+    /*Feature Switch*/
+    .feature-switch {
+        padding: 80px 0px;
+    }
+    /*Trusted Section*/
+    .trusted-human {
+        padding: 70px 0px;
+    }
+    /*Footer Content*/
+    .footer-content p {
+        padding-right: 10%;
+    }
+    .footer-content ul li {
+        margin-right: 35px!important;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    .mobileNavStyle{
+        width:320px;
+    }
+    .sidenav a {
+        padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+     /*Mobile Nav */
+     .mobile-nav {
+        padding-top: 25px;
+    }
+    .burger-icon{
+        font-size:30px;
+    }
+    .logo-link img {
+        width: 140px;
+      }  
+  /*Mobile Nav */
+    .cmn-title {
+        font-size: 25px;
+    }
+
+    /*Header Section Start*/
+    .header-content {
+        padding-bottom: 300px;
+    }
+    .priceText {
+        padding-top: 30px;
+        padding-bottom: 65px;
+    }
+    .select-title {
+        font-size: 19px;
+    }
+    .text-wrapper h5 {
+        font-size: 14px;
+    }
+
+    /*Feature Switch*/
+    .feature-switch {
+        padding: 80px 0px;
+    }
+    /*Trusted Section*/
+    .trusted-human {
+        padding: 70px 0px;
+    }
+    /*Footer Content*/
+    .footer-content p {
+        padding-right: 10%;
+    }
+
+
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    /*Index.html media code*/
+    .cmn-title {
+        padding-bottom: 70px;
+        font-size: 28px;
+    }
+
+    /*Header Section*/
+    .header-content h1 {
+        font-size: 40px;
+    }
+    .priceText {
+        width: 55%;        
+    }
+    .select-title {
+        font-size: 18px;
+    }
+    .text-wrapper h5 {
+        font-size: 15px;
+    }
+    /*Feature-switch*/
+    .feature-switch{
+        padding: 80px 0px;
+    }
+    .single-feature {
+        padding: 15px 0px;
+    }
+
+    /*Card Section*/
+    .card_content h3 {
+        font-size: 20px;
+    }
+    .card_content p {
+        padding-top: 18px;
+        padding-bottom: 18px;
+        font-size: 15px;
+        line-height: 1.5;
+    }
+    .clients-block {
+        padding: 80px 0px;
+    }
+    /*Free Trial Section Start*/
+    .freetrialBtn {
+        padding: 12px 30px;        
+        font-size: 18px;        
+    }
+    .free-trial {
+        padding: 0px 0 100px;
+    }
+    /*Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+    /**Index.html media code*/
+
+    
+
+    /*Header Section*/
+    .header-content h1 {
+        font-size: 40px;
+    }
+    .priceText {
+        width: 50%;        
+    }
+    .select-title {
+        font-size: 19px;
+    }
+    .text-wrapper h5 {
+        font-size: 15px;
+    }
+
+    /*Feature-switch*/
+    .feature-switch{
+        padding: 80px 0px;
+    }
+
+
+    /*Card Section*/
+    .card_content {
+        padding: 30px 35px;
+      
+    }
+
+    /**Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1400px) and (max-width:1599.98px){
+
+    /*Feature-switch*/
+    .feature-switch{
+        padding: 80px 0px;
+    }
+}
+@media (min-width:1600px) and (max-width:1799.98px){}
+@media (min-width:1800px){}

@@ -1,0 +1,510 @@
+@media (min-width:320px) and (max-width:575.98px){
+    /*Header Section Start*/
+    .mobileNavStyle{
+        width:260px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+  .intro{
+      min-height: 85vh;
+  }
+
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 80vh;
+    }
+    .carousel-text {
+        padding-top: 13rem;
+        text-align: center;
+    }
+    .carousel-text h2 {
+        font-size: 21px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+       display: none;
+    }
+
+    /*Header Content Extra thing will remove soon*/
+    .cmn-title {
+        font-size: 24px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+    }
+    .header-content {
+        padding-top: 0px;
+    }
+    /*Productive Section Start*/
+    .productive-content-block {
+        padding-top: 10px;
+        clip-path: polygon(100% 0, 100% 90%, 0 100%, 0 0);
+    }
+    .steps {
+        text-align: center;
+        padding: 25px 0px;
+    }
+
+    /*Love Block Section*/
+    .love_text-wrapper h5 {
+        font-size: 15px;
+    }
+    .love_text-wrapper p {
+        font-size: 15px;
+    }
+    /*Client Block Start*/
+    .drive-title{
+        font-size:22px;
+        padding-left:0px ;
+        padding-right:0px ;
+    }
+
+    /*Inquiry Section Start*/
+    .form .input-field input, 
+    .form .input-field select, 
+    .form .input-field textarea {
+        padding: 8px 10px;
+    }
+    .form .input-field textarea {
+        height: 160px;
+    }
+    .trusted-human {
+        padding: 75px 0px;
+    }
+    /*Footer Section Start*/
+    .footer{
+        text-align: center;
+    }
+    .footer-content {
+        padding-bottom: 25px;
+    }
+    .footer-links h5 {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .footer-links ul li {
+        margin-top: 17px;
+    }
+    .footer-content p {
+        padding-right: 0;
+    }
+    .footer-content ul li {
+        margin-right: 35px!important;
+    } 
+}
+@media (min-width:576px) and (max-width:767.98px){
+    /*Header Section Start*/
+    .mobileNavStyle{
+        width:290px;
+    }      
+    .sidenav a {
+     padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+  .intro{
+      min-height: 85vh;
+  }
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 100vh;
+    }
+    .carousel-text {
+        padding-top: 16rem;
+        text-align: center;
+    }
+    .carousel-text h2 {
+        font-size: 32px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 100%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+       display: none;
+    }
+
+    /*Header Content Extra thing will remove soon*/
+    .cmn-title {
+        font-size: 24px;
+    }
+    .header-content {
+        padding-top: 0px;
+    }
+    /*Productive Section Start*/
+    .steps {
+        text-align: center;
+        padding: 25px 50px;
+    }
+    /*Client Block Start*/
+    .drive-title{
+        font-size:26px;
+        padding-left:50px ;
+        padding-right:50px ;
+    }
+
+    /*Inquiry Section Start*/
+    .form .input-field input, 
+    .form .input-field select, 
+    .form .input-field textarea {
+        padding: 10px 10px;
+    }
+    /*Footer Section Start*/
+    .footer-content p {
+        padding-right: 10%;
+    }
+    .footer-content ul li {
+        margin-right: 35px!important;
+    }   
+
+}
+@media (min-width:768px) and (max-width:991.98px){
+    /*Header Section Start*/
+    .mobileNavStyle{
+        width:320px;
+    }
+    .sidenav a {
+        padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+     /*Mobile Nav */
+     .mobile-nav {
+        padding-top: 25px;
+    }
+    .burger-icon{
+        font-size:30px;
+    }
+    .logo-link img {
+        width: 140px;
+      }  
+  /*Mobile Nav */
+  .intro{
+      min-height: 85vh;
+  }
+     /*Slider Part Start*/
+     .single_1,
+     .single_2,
+     .single_3,
+     .single_4 {
+         min-height: 110vh;
+     }
+     .carousel-text {
+         padding-top: 16rem;
+         text-align: center;
+     }
+     .carousel-text h2 {
+         font-size: 40px;
+         margin-bottom: 25px;
+     }
+     .carousel-text p {
+         width: 100%;
+     }
+     .carousel-control-prev .carousel-control-prev-icon, 
+     .carousel-control-next .carousel-control-next-icon {
+        display: none;
+     }
+
+    /*Header Content Extra thing will remove soon*/
+    .header-content {
+        padding-top: 0px;
+    }
+
+    /*Productive Section Start*/
+    .steps {
+        text-align: center;
+        padding: 25px 75px;
+    }
+    /*Client Block Start*/
+    .drive-title{
+        font-size:26px;
+        padding-left:50px ;
+        padding-right:50px ;
+    }   
+
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 110vh;
+    }
+    .carousel-text {
+        padding-left: 0px;
+        padding-top: 17rem;
+    }
+    .carousel-text h2 {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 100%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+       display: none;
+    }
+    /*Slider Part End*
+
+
+    /*Index.html media code*/
+    .cmn-title {
+        padding-bottom: 70px;
+        font-size: 28px;
+    }
+
+    /*Header Section*/
+    .header-content h1 {
+        font-size: 26px;
+    }
+
+    /*Productive Section*/
+    .productive-content-block {
+         padding-top: 100px;
+    }
+    .productive3{
+        width: 190px!important;
+    }
+
+    /*Love Block Section*/
+    .love_item {
+        height: 130px;
+    }
+    .love_text-wrapper h5 {
+        font-size: 15px;
+    }
+    .love_text-wrapper p {
+        font-size: 15px;
+    }
+    /*Card Section*/
+    .card_content h3 {
+        font-size: 20px;
+    }
+    .card_content p {
+        padding-top: 18px;
+        padding-bottom: 18px;
+        font-size: 15px;
+        line-height: 1.5;
+    }
+    .clients-block {
+        padding: 80px 0px;
+    }
+    /*Inquiry Form*/
+    .form .input-field {
+        padding-bottom: 10px;
+    }
+    .form .input-field label {
+        font-size: 13px;
+    }
+    .form .input-field input, .form .input-field select, .form .input-field textarea {
+        padding: 10px 10px;
+    }
+    .form .input-field textarea{
+        height:150px;
+    }
+    /*Free Trial Section Start*/
+    .free-trial {
+        padding: 100px 0 100px;
+    }
+    /*Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 135vh;
+    }
+    .carousel-text {
+        padding-left: 6px;
+        padding-top: 18rem;
+    }
+    .carousel-text h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 90%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+        background-size: 25px;
+    }
+    /*Slider Part End*/
+
+
+    /**Index.html media code*/
+
+    /*Header Section*/
+    .header-content h1 {
+        font-size: 30px;
+    }
+
+    /*Productive Section*/
+    .productive3{
+        width: 190px!important;
+    }
+
+    /*Love-Block Section*/
+    .love_text-wrapper h5 {
+        font-size: 17px;
+    }
+    .love_text-wrapper p {
+        font-size: 15px;
+    }
+
+    /*Card Section*/
+    .card_content {
+        padding: 30px 35px;
+      
+    }
+
+    /**Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1400px) and (max-width:1599.98px){
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 135vh;
+    }
+    .carousel-text {
+        padding-top: 18rem;
+    }
+    .carousel-text h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 65%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+        background-size: 25px;
+    }
+    /*Slider Part End*/
+}
+@media (min-width:1600px) and (max-width:1799.98px){
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 135vh;
+    }
+    .carousel-text {
+        padding-top: 18rem;
+    }
+    .carousel-text h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 65%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+        background-size: 25px;
+    }
+    /*Slider Part End*/
+}
+@media (min-width:1800px) and (max-width:1919.98px){
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 140vh;
+    }
+    .carousel-text {
+        padding-top: 18rem;
+    }
+    .carousel-text h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 75%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+        background-size: 25px;
+    }
+    /*Slider Part End*/
+}
+@media (min-width:1920px){
+
+    /*Slider Part Start*/
+    .single_1,
+    .single_2,
+    .single_3,
+    .single_4 {
+        min-height: 135vh;
+    }
+    .carousel-text {
+        padding-top: 18rem;
+    }
+    .carousel-text h2 {
+        font-size: 55px;
+        margin-bottom: 25px;
+    }
+    .carousel-text p {
+        width: 65%;
+    }
+    .carousel-control-prev .carousel-control-prev-icon, 
+    .carousel-control-next .carousel-control-next-icon {
+        background-size: 25px;
+    }
+    /*Slider Part End*/
+}

@@ -1,0 +1,309 @@
+@media (min-width:320px) and (max-width:575.98px){
+    .mobileNavStyle{
+        width:260px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+    /*Header Content*/
+    ul {
+        padding-left: 10px!important;
+    }
+    .about-content{
+        text-align: center!important;
+        padding-bottom: 25px;
+    }
+    .about-content h2{
+        text-align:center;
+        font-size: 26px;
+    }
+    .about-content p {
+        padding-top: 30px;
+    }
+    .about-content-img img {
+        margin-top: 0px;
+    }
+    /*Common Description*/
+    .descriptionContainer {
+        padding-bottom: 80px;
+    }
+    .cmn-description p{
+        padding-right: 0px;
+    }
+    .imgTop{
+        margin-top: 60px!important;
+    }
+    .imgBottom{
+        margin-bottom: 60px!important;
+    }
+    .text_center{
+        text-align: center;
+    }
+    .iconText h4 {
+        font-size: 20px;
+    }
+    /*Feature Content*/
+    .feature-content {
+        padding-bottom: 40px;
+    }
+    .feature-switch {
+        padding: 50px 0px;
+    }
+    .feature_list {
+        padding: 40px 0px;
+    }
+    .form .input-field input, 
+    .form .input-field select, 
+    .form .input-field textarea {
+        padding: 8px 10px;
+    }
+    .form .input-field textarea{
+        height:150px;
+    }
+    .form .input-field input, .form .input-field select, .form .input-field textarea {
+        font-size: 16px;
+    }
+    .cmn-title {
+        padding-bottom: 55px;
+        font-size: 24px;
+    }
+    .cmn-description-section {
+        padding-top: 80px;
+        padding-bottom: 0px;
+    }
+
+    /*Footer Section Start*/
+    .footer{
+        text-align: center;
+    }
+    .footer-content {
+        padding-bottom: 25px;
+    }
+    .footer-links h5 {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .footer-links ul li {
+        margin-top: 17px;
+    }
+    .footer-content p {
+        padding-right: 0;
+    }
+    .footer-content ul li {
+        margin-right: 35px!important;
+    }
+} 
+@media (min-width:576px) and (max-width:767.98px){
+    .mobileNavStyle{
+        width:290px;
+    }      
+    .sidenav a {
+     padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+    /*Mobile Nav */
+    .mobile-nav {
+        padding-top: 20px;
+    }
+    .burger-icon{
+        font-size:25px;
+    }
+    .burger-icon i{
+        color: #fff;
+    }
+    .logo-link img {
+        width: 120px;
+      }  
+  /*Mobile Nav */
+    /*Header Content*/
+    .about-content{
+        padding: 0px 50px;
+        text-align: center!important;
+        padding-bottom: 25px;
+    }
+    .about-content h2{
+        text-align:center;
+    }
+    /*Common Description*/
+    .cmn-description p{
+        padding-right: 25px;
+    }
+    .imgTop{
+        margin-top: 60px!important;
+    }
+    .imgBottom{
+        margin-bottom: 60px!important;
+    }
+    .text_center{
+        text-align: center;
+    }
+    /*Feature Content*/
+    .feature-content {
+        padding-left: 75px;
+        padding-bottom: 50px;
+    }
+    .feature-switch {
+        padding: 50px 0px;
+    }
+    .feature_list {
+        padding: 40px 0px;
+    }
+    .form .input-field input, 
+    .form .input-field select, 
+    .form .input-field textarea {
+        padding: 8px 10px;
+    }
+    .form .input-field textarea{
+        height:150px;
+    }
+    .cmn-title {
+        padding-bottom: 55px;
+        font-size: 24px;
+    }
+    .cmn-description-section {
+        padding-top: 80px;
+        padding-bottom: 0px;
+    }
+    .footer-content p {
+        padding-right: 10%;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    .mobileNavStyle{
+        width:320px;
+    }
+    .sidenav a {
+        padding-left: 40px;
+    }
+    .mobile_dropdown_item{
+        padding-bottom: 8px;
+    }
+     /*Mobile Nav */
+     .mobile-nav {
+        padding-top: 25px;
+    }
+    .burger-icon{
+        font-size:30px;
+    }
+    .logo-link img {
+        width: 140px;
+      }  
+  /*Mobile Nav */
+    /*Header Content*/
+    .about-content{
+        padding: 0px 100px;
+        text-align: center!important;
+        padding-bottom: 25px;
+    }
+    .about-content h2{
+        text-align:center;
+    }
+    /*Common Description*/
+    .cmn-description p{
+        padding-right: 75px;
+    }
+    .text_center{
+        text-align: center;
+    }
+    /*Feature Content*/
+    .feature-content {
+        padding-left: 185px;
+        padding-bottom: 50px;
+    }
+    .feature-switch {
+        padding: 50px 0px;
+    }
+    .feature_list {
+        padding: 40px 0px;
+    }
+    .form .input-field input, 
+    .form .input-field select, 
+    .form .input-field textarea {
+        padding: 8px 10px;
+    }
+    .form .input-field textarea{
+        height:150px;
+    }
+    .cmn-title {
+        padding-bottom: 55px;
+        font-size: 26px;
+    }
+    .footer-content p {
+        padding-right: 10%;
+    }
+}
+@media (min-width:992px) and (max-width:1199.98px){
+
+    /*Single Feature*/
+    .single-feature {
+        padding: 15px 0;
+    }
+    /*Feature List*/
+    .feature_list {
+        padding: 50px 0px;
+    }
+    /*Free Trial */
+    .free-trial {  
+        padding-top: 100px;
+        padding-bottom:150px;
+    
+    }
+    /*Trusted Human*/
+    .trusted-human {
+        padding: 80px 0px;
+    }
+    .cmn-title {
+        font-size: 28px;
+        
+    }
+    .cmn-description p {
+        padding-right: 25px;
+    }
+    /*Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+    /*Feature List*/
+    .feature_list {
+        padding: 50px 0px;
+    }
+    /*Free Trial */
+    .free-trial {  
+        padding-top: 100px;
+        padding-bottom:150px;
+    }
+    /*Trusted Human*/
+    .trusted-human {
+        padding: 80px 0px;
+    }
+    .cmn-title {
+        font-size: 28px;
+    }
+
+    /*Footer Section*/
+    .app-btn {
+        width: 100%;
+    }
+}
+@media (min-width:1400px) and (max-width:1599.98px){}
+@media (min-width:1600px) and (max-width:1799.98px){}
+@media (min-width:1800px){
+    .w_75{
+        width: 75%;
+    }
+}
